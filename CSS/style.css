@@ -96,7 +96,7 @@ a {
   letter-spacing: initial;
 }
 #header .nav-list ul li:hover a {
-  color: whitesmoke;
+  color: rgb(255, 93, 93);
 }
 #header .hamburger {
   height: 60px;
